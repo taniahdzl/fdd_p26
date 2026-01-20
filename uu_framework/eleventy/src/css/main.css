@@ -154,32 +154,32 @@
   }
 
   .component--homework::before {
-    content: '[TAREA]';
+    content: '[TAREA] ' attr(data-title);
     color: var(--color-homework);
   }
 
   .component--exercise::before {
-    content: '[EJERCICIO]';
+    content: '[EJERCICIO] ' attr(data-title);
     color: var(--color-exercise);
   }
 
   .component--prompt::before {
-    content: '[PROMPT]';
+    content: '[PROMPT] ' attr(data-title);
     color: var(--color-prompt);
   }
 
   .component--example::before {
-    content: '[EJEMPLO]';
+    content: '[EJEMPLO] ' attr(data-title);
     color: var(--color-example);
   }
 
   .component--exam::before {
-    content: '[EXAMEN]';
+    content: '[EXAMEN] ' attr(data-title);
     color: var(--color-exam);
   }
 
   .component--project::before {
-    content: '[PROYECTO]';
+    content: '[PROYECTO] ' attr(data-title);
     color: var(--color-project);
   }
 

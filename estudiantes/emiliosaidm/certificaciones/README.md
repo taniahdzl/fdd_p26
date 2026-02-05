@@ -6,4 +6,4 @@
 ## Evidencia
 
 ![Certificado Básico GitHub](./github-basico.pdf)
-![Certificado Básico GitHub](./github-intermedio.pdf)
+![Certificado Intermedio GitHub](./github-intermedio.pdf)
